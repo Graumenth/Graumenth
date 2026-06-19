@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Can İşgüder
 
-I'm an airline pilot by day and a tinkerer by night—the kind of person who starts three new projects before finishing one. Currently juggling flying, writing, and breaking things in code.
+I'm an airline pilot by day and a tinkerer by night. The kind of person who starts three new projects before finishing one. Currently juggling flying, writing, and breaking things in code.
 
 ### What I Do
 - 👀 **Aviation & Building.** I fly planes for a living, which means I'm constantly thinking about systems, optimization, and why networking always feels like my personal nemesis.

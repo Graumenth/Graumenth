@@ -31,7 +31,10 @@ about it at cruise.
 
 C# / Unity · .NET · PHP · PostgreSQL · Redis · Docker · and lately C, on purpose
 
-<img src="https://ghchart.rshah.org/3987e5/Graumenth" alt="contribution graph" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Graumenth/Graumenth/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Graumenth/Graumenth/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+</picture>
 
 <p align="center">
   <picture>

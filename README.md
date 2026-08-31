@@ -1,5 +1,9 @@
 # Can İşgüder
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=airline+pilot;backend,+preferably+at+FL360;netcode:+currently+losing;no+frontend.+begging.&font=Fira+Code&size=20&color=58A6FF&vCenter=true&width=440&height=40&pause=1200" alt="airline pilot, backend developer">
+</p>
+
 Airline pilot who writes software on layovers. Everything below exists
 because I needed it in the cockpit, or because I couldn't stop thinking
 about it at cruise.
@@ -10,11 +14,14 @@ about it at cruise.
 - **NavlogMap** · the navlog, on a map · beta
 - **RWY Wind** · runway wind math · flying with me
 - **Brifing** · lessons and a question bank · daily driver
+- **TalkToMyATC** · radio practice · early days
 
 ### After hours
 
 - **CanMMO** · Unity MMO with a dedicated server. The netcode wins every
   other week, but I'm keeping score.
+- **CanVPN** · a VPN, the whole stack · in progress
+- **Hikaye** · where the novel will live · building
 - **KernelLab** · syscalls, interrupts, paging and friends. The long game
   is writing my own OS. Yes, everyone says that.
 - **A novel** · Turkish fantasy, in progress since forever. "I'll finish
@@ -23,6 +30,8 @@ about it at cruise.
 ### Tools I actually use
 
 C# / Unity · .NET · PHP · PostgreSQL · Redis · Docker · and lately C, on purpose
+
+<img src="https://ghchart.rshah.org/3987e5/Graumenth" alt="contribution graph" width="100%">
 
 <p align="center">
   <picture>
